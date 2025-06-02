@@ -1,0 +1,359 @@
+{% extends "base.html" %}
+
+{% block title %}Fashionous BlouseBot — Chat/Voice{% endblock %}
+
+{% block content %}
+<div class="chat-ui-outer">
+    <div class="chat-header">
+        <img src="{{ url_for('static', filename='logo.jpg') }}" alt="Fashionous Logo" class="avatar bot-avatar">
+        <span class="bot-name">Fashionous BlouseBot</span>
+    </div>
+    <div class="chat-box" id="chat-box" aria-live="polite" aria-atomic="true"></div>
+    <form id="chat-form" class="input-area" autocomplete="off">
+        <div class="input-row">
+            <textarea id="user-input" class="chat-input" placeholder="Type your message here or use voice..." rows="2" aria-label="Chat input"></textarea>
+            <div class="input-buttons">
+                <button type="submit" id="send-btn" class="send-btn" aria-label="Send message">Send</button>
+                <button type="button" id="mic-btn" class="mic-button" aria-label="Toggle voice input">🎤</button>
+                <button type="button" id="clear-btn" class="clear-btn" aria-label="Clear chat">🗑️</button>
+                <button type="button" id="help-btn" class="help-btn" aria-label="Voice help">❓</button>
+            </div>
+        </div>
+    </form>
+    <!-- Floating Cart Icon -->
+    <button id="cart-float-btn" class="cart-float-btn" aria-label="Open cart">🛒<span id="cart-count" class="cart-count">0</span></button>
+    <!-- Cart Sidebar -->
+    <div id="cart-sidebar" class="cart-sidebar">
+        <div class="cart-sidebar-header">
+            <span>🛒 Your Cart</span>
+            <button id="cart-close-btn" class="cart-close-btn" aria-label="Close cart">&times;</button>
+        </div>
+        <div id="cart-items" class="cart-items"></div>
+        <div class="cart-sidebar-footer">
+            <div style="flex:1;color:#2563eb;font-weight:600;">
+                Total: ₹<span id="cart-total">0</span>
+            </div>
+            <button id="cart-checkout-btn" class="cart-checkout-btn">Checkout All</button>
+        </div>
+    </div>
+    <div id="cart-overlay" class="cart-overlay"></div>
+</div>
+{% endblock %}
+
+{% block extra_head %}
+<style>
+body {
+    background: linear-gradient(135deg, #f0f4f8 0%, #e9eefd 100%);
+}
+.chat-ui-outer {
+    max-width: 650px;
+    margin: 36px auto 0 auto;
+    background: #fff;
+    border-radius: 18px;
+    box-shadow: 0 8px 32px #0002;
+    padding: 0 0 24px 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 600px;
+    position: relative;
+}
+.chat-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 18px 24px 0 24px;
+}
+.avatar {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    object-fit: cover;
+    box-shadow: 0 2px 6px #0002;
+}
+.bot-name {
+    font-weight: 700;
+    color: #2563eb;
+    font-size: 1.15rem;
+    flex: 1;
+}
+.chat-box {
+    flex-grow: 1;
+    padding: 24px 22px 10px 22px;
+    overflow-y: auto;
+    background: #f9fbff;
+    border-radius: 18px 18px 0 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 320px;
+}
+.message {
+    max-width: 80%;
+    margin-bottom: 18px;
+    padding: 13px 17px;
+    border-radius: 22px;
+    font-size: 1.08rem;
+    line-height: 1.5;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+    word-break: break-word;
+    position: relative;
+    transition: background 0.2s;
+}
+.message.user {
+    background: linear-gradient(90deg, #2563eb 80%, #4f8cff 100%);
+    color: #fff;
+    align-self: flex-end;
+    border-bottom-right-radius: 6px;
+}
+.message.bot {
+    background: #e1e8ff;
+    color: #1e293b;
+    align-self: flex-start;
+    border-bottom-left-radius: 6px;
+}
+.message img {
+    max-width: 150px;
+    border-radius: 14px;
+    margin-top: 10px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    display: block;
+}
+.input-area {
+    background: #fff;
+    border-radius: 0 0 18px 18px;
+    padding: 0 18px 0 18px;
+    box-sizing: border-box;
+    width: 100%;
+}
+.input-row {
+    display: flex;
+    align-items: flex-end;
+    gap: 12px;
+    width: 100%;
+}
+.chat-input {
+    flex: 1 1 auto;
+    border-radius: 12px;
+    border: 1.5px solid #cbd5e1;
+    padding: 16px 24px;
+    font-size: 1.13rem;
+    font-family: inherit;
+    min-height: 48px;
+    max-height: 96px;
+    background: #f7fafc;
+    transition: border-color 0.3s;
+    resize: none;
+    box-sizing: border-box;
+    width: 100%;
+}
+.chat-input:focus {
+    outline: none;
+    border-color: #2563eb;
+    box-shadow: 0 0 8px rgba(37, 99, 235, 0.14);
+}
+.input-buttons {
+    display: flex;
+    gap: 8px;
+    align-items: flex-end;
+}
+.send-btn, .clear-btn, .help-btn {
+    background: #2563eb;
+    border: none;
+    color: white;
+    font-weight: 600;
+    font-size: 1rem;
+    padding: 0 22px;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: background 0.3s;
+    height: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.send-btn:disabled, .clear-btn:disabled, .help-btn:disabled {
+    background: #94a3b8;
+    cursor: not-allowed;
+}
+.send-btn:hover:not(:disabled), .clear-btn:hover:not(:disabled), .help-btn:hover:not(:disabled) {
+    background: #1e40af;
+}
+.mic-button {
+    background: #e2e8f0;
+    color: #334155;
+    border-radius: 50%;
+    width: 44px;
+    height: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.25rem;
+    transition: background 0.3s;
+    border: none;
+}
+.mic-button.listening {
+    background: #dc2626;
+    color: white;
+}
+.clear-btn {
+    background: #e2e8f0;
+    color: #dc2626;
+}
+.clear-btn:hover {
+    background: #dc2626;
+    color: #fff;
+}
+.help-btn {
+    background: #e2e8f0;
+    color: #2563eb;
+}
+.help-btn:hover {
+    background: #2563eb;
+    color: #fff;
+}
+
+/* Floating Cart Button */
+.cart-float-btn {
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    z-index: 9999;
+    background: #2563eb;
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    width: 64px;
+    height: 64px;
+    font-size: 2rem;
+    box-shadow: 0 2px 12px #2563eb44;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.2s;
+}
+.cart-float-btn:hover {
+    background: #1e40af;
+}
+.cart-count {
+    background: #dc2626;
+    color: #fff;
+    border-radius: 50%;
+    padding: 2px 8px;
+    font-size: 1rem;
+    position: absolute;
+    top: 8px;
+    right: 8px;
+}
+.cart-sidebar {
+    position: fixed;
+    top: 0; right: -420px;
+    width: 400px;
+    height: 100vh;
+    background: #f8fafc;
+    box-shadow: -2px 0 24px #0003;
+    z-index: 10000;
+    transition: right 0.3s;
+    display: flex;
+    flex-direction: column;
+}
+.cart-sidebar.open {
+    right: 0;
+}
+.cart-overlay {
+    display: none;
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: #0006;
+    z-index: 9998;
+}
+.cart-overlay.open {
+    display: block;
+}
+.cart-sidebar-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 18px 22px 10px 22px;
+    font-weight: 700;
+    font-size: 1.2rem;
+    color: #2563eb;
+    border-bottom: 1px solid #e0e7ef;
+}
+.cart-close-btn {
+    background: none;
+    border: none;
+    font-size: 2rem;
+    color: #64748b;
+    cursor: pointer;
+}
+.cart-items {
+    flex: 1;
+    overflow-y: auto;
+    padding: 18px 22px;
+}
+.cart-item {
+    background: #f9fbff;
+    border-radius: 12px;
+    margin-bottom: 14px;
+    padding: 10px 14px;
+    box-shadow: 0 2px 8px #0001;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+.cart-item img {
+    max-width: 60px;
+    border-radius: 8px;
+}
+.cart-item-details {
+    flex: 1;
+}
+.cart-item-title {
+    font-weight: 600;
+    font-size: 1rem;
+    color: #1e293b;
+}
+.cart-item-remove {
+    background: #e2e8f0;
+    border: none;
+    color: #dc2626;
+    border-radius: 6px;
+    padding: 4px 10px;
+    font-size: 1rem;
+    cursor: pointer;
+    margin-left: 8px;
+}
+.cart-sidebar-footer {
+    padding: 18px 22px;
+    border-top: 1px solid #e0e7ef;
+    display: flex;
+    align-items: center;
+    gap: 18px;
+}
+.cart-checkout-btn {
+    background: #2563eb;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    padding: 10px 28px;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+.cart-checkout-btn:hover {
+    background: #1e40af;
+}
+@media (max-width: 800px) {
+    .chat-ui-outer { max-width: 100vw; }
+    .cart-sidebar { width: 100vw; }
+    .cart-float-btn { right: 18px; bottom: 18px; }
+    .input-row { flex-direction: column; gap: 8px; }
+    .input-buttons { justify-content: flex-end; }
+}
+</style>
+{% endblock %}
+
+{% block extra_scripts %}
+<script src="{{ url_for('static', filename='js/chat.js') }}"></script>
+{% endblock %}

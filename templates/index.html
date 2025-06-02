@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+
+{% block title %}Fashionous BlouseBot — Start{% endblock %}
+
+{% block content %}
+<div style="padding: 32px 0; display: flex; flex-direction: column; align-items: center;">
+    <img src="{{ url_for('static', filename='logo.jpg') }}" alt="Fashionous Logo" style="max-width:120px; border-radius:12px; margin-bottom:18px;">
+    <h2 style="color:#2563eb; font-size:2rem; margin-bottom:10px; letter-spacing:1px;">Welcome to Fashionous BlouseBot</h2>
+    <p style="font-size:1.1rem; color:#334155; max-width:400px; text-align:center; margin-bottom:32px;">
+        Discover your perfect designer blouse! Choose how you want to get recommendations:
+    </p>
+    <div style="display:flex; gap:32px; flex-wrap:wrap; justify-content:center;">
+        <a href="{{ url_for('questionnaire_page') }}" class="mode-card">
+            <div style="font-size:2.2rem; margin-bottom:10px;">📝</div>
+            <div style="font-weight:600; font-size:1.1rem;">Guided Questionnaire</div>
+            <div style="color:#64748b; font-size:0.97rem; margin-top:6px;">Answer a few quick questions for tailored suggestions.</div>
+        </a>
+        <a href="{{ url_for('chat_page') }}" class="mode-card">
+            <div style="font-size:2.2rem; margin-bottom:10px;">💬</div>
+            <div style="font-weight:600; font-size:1.1rem;">Chat / Voice</div>
+            <div style="color:#64748b; font-size:0.97rem; margin-top:6px;">Describe your style or speak your needs for instant results.</div>
+        </a>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_head %}
+<style>
+.mode-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #f9fbff;
+    border: 1.5px solid #e0e7ef;
+    border-radius: 16px;
+    padding: 28px 28px 22px 28px;
+    width: 230px;
+    text-decoration: none;
+    box-shadow: 0 3px 18px #0001;
+    transition: box-shadow 0.2s, border 0.2s, background 0.2s;
+}
+.mode-card:hover {
+    border: 1.5px solid #2563eb;
+    background: #e8f0fe;
+    box-shadow: 0 6px 24px #2563eb22;
+}
+@media (max-width: 700px) {
+    .mode-card { width: 90vw; margin-bottom: 18px; }
+}
+</style>
+{% endblock %}

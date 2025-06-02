@@ -1,0 +1,9 @@
+name,phone,address,blouse_title,blouse_id
+Swayam,8434615085,Chennai,Dashing Deep U Neck Customized Blouse - CBLS005,customized-blouse-pattern_cbl005
+Fashionous Testing,9000000000,Chennai,Dashing Deep U Neck Customized Blouse - CBLS005,customized-blouse-pattern_cbl005
+Swayam,9000000000,Chennai,1500,https://cdn.shopify.com/s/files/1/1004/5250/files/plain_blouse_shortsleeve_princesscut_3d_Back.png?v=1745304432,customized-blouse-stitching-service_cbls006,"['cotton', 'muslin', 'linen', 'georgette', 'chiffon', 'silk', 'poplin']",https://cdn.shopify.com/s/files/1/1004/5250/files/plain_blouse_shortsleeve_princesscut_3d_Front.png?v=1745304431,v_neck,['ethnic'],750,default_prompt,CBLS006,"['L', 'M', 'S', 'XL', 'XS', 'XXL']",short_sleeve,Poised Princess Cut Customized Blouse- CBLS006
+Swayam,9000000000,Chennai,1500,https://cdn.shopify.com/s/files/1/1004/5250/files/rufflesleeve_princesscut_vneck_squareneck_3d_Back.png?v=1745304427,customized-blouse-stitching-service_cbls016,"['cotton', 'muslin', 'linen', 'georgette', 'chiffon', 'silk', 'poplin']",https://cdn.shopify.com/s/files/1/1004/5250/files/rufflesleeve_princesscut_vneck_squareneck_3d_Front.png?v=1745304427,sweetheart,"['trendy', 'festive']",750,default_prompt,CBLS016,"['L', 'M', 'S', 'XL', 'XS', 'XXL']",ruffled_sleeve,Radiant Ruffled Sleeve Customized Blouse - CBLS016
+S,90,chennai,Poised Princess Cut Customized Blouse- CBLS006,customized-blouse-stitching-service_cbls006,750,750
+S,9,chennai,Poised Princess Cut Customized Blouse- CBLS006,customized-blouse-stitching-service_cbls006,750,750
+Swayma,89,chenai,Dashing Deep U Neck Customized Blouse - CBLS005,customized-blouse-pattern_cbl005,850,850
+S,900000000,chennai,Dashing Deep U Neck Customized Blouse - CBLS005,customized-blouse-pattern_cbl005,850,850

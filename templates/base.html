@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}Fashionous BlouseBot{% endblock %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="{{ url_for('static', filename='logo.jpg') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    {% block extra_head %}{% endblock %}
+</head>
+<body>
+    <div class="chat-container">
+        <div class="header">
+            <img src="{{ url_for('static', filename='logo.jpg') }}" alt="Fashionous Logo">
+            <span>Fashionous BlouseBot</span>
+        </div>
+        {% block content %}{% endblock %}
+        <div class="footer">
+            &copy; {{ current_year or 2025 }} Fashionous. All rights reserved.
+        </div>
+    </div>
+    {% block extra_scripts %}{% endblock %}
+</body>
+</html>

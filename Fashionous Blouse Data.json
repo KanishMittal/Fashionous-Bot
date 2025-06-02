@@ -1,0 +1,1962 @@
+[
+  {
+    "design_id": "customized-blouse-pattern_cbl005",
+    "public_id": "CUSTOMIZED-BLOUSE-PATTERN_CBL005",
+    "title": "Dashing Deep U Neck Customized Blouse - CBLS005",
+    "price_inr": 850.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/keyhole_sleeveless_princesscut_potneck_3d_Front.png?v=1745304433",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/keyhole_sleeveless_princesscut_potneck_3d_Back.png?v=1745304433",
+    "neckline": "u_neck",
+    "sleeve": "sleeveless",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive",
+      "ethnic"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls006",
+    "public_id": "CBLS006",
+    "title": "Poised Princess Cut Customized Blouse- CBLS006",
+    "price_inr": 750.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/plain_blouse_shortsleeve_princesscut_3d_Front.png?v=1745304431",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/plain_blouse_shortsleeve_princesscut_3d_Back.png?v=1745304432",
+    "neckline": "v_neck",
+    "sleeve": "short_sleeve",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "ethnic"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls022",
+    "public_id": "CBLS022",
+    "title": "Sensational Sweetheart Neckline Customized Blouse - CBLS022",
+    "price_inr": 850.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/princesscut_sleeveless_cutwork_3d_Front.png?v=1745304430",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/princesscut_sleeveless_cutwork_3d_Back.png?v=1745304430",
+    "neckline": "sweetheart",
+    "sleeve": "sleeveless",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls007",
+    "public_id": "CBLS007",
+    "title": "Charming Crew Neck Customized Blouse - CBLS007",
+    "price_inr": 850.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/crew_neck_shortsleeve_princesscut_shapedhole_3d_Front.png?v=1745304429",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/crew_neck_shortsleeve_princesscut_shapedhole_3d_Back.png?v=1745304429",
+    "neckline": "crew_neck",
+    "sleeve": "short_sleeve",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive",
+      "ethnic"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls011",
+    "public_id": "CBLS011",
+    "title": "Trendsetting Turtle Neck Customized Blouse - CBLS011",
+    "price_inr": 850.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/turtleneck_rib_plainbodice_sleeveless_3d_Front.png?v=1745304428",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/turtleneck_rib_plainbodice_sleeveless_3d_Back.png?v=1745304428",
+    "neckline": "turtle_neck",
+    "sleeve": "sleeveless",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls016",
+    "public_id": "CBLS016",
+    "title": "Radiant Ruffled Sleeve Customized Blouse - CBLS016",
+    "price_inr": 750.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/rufflesleeve_princesscut_vneck_squareneck_3d_Front.png?v=1745304427",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/rufflesleeve_princesscut_vneck_squareneck_3d_Back.png?v=1745304427",
+    "neckline": "sweetheart",
+    "sleeve": "ruffled_sleeve",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls009",
+    "public_id": "CBLS009",
+    "title": "Winsome Waist Ruffled Customized Blouse - CBLS009",
+    "price_inr": 850.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/vneeck_ruffle_bodice_sleeveless_3d_Front.png?v=1745304426",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/vneeck_ruffle_bodice_sleeveless_3d_Back.png?v=1745304426",
+    "neckline": "other",
+    "sleeve": "sleeveless",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls020",
+    "public_id": "CBLS020",
+    "title": "Whimsical Wide V-Neck Customized Blouse - CBLS020",
+    "price_inr": 850.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/ruffle_crew_keyhole_elbowsleeve_3d_Front.png?v=1745304425",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/ruffle_crew_keyhole_elbowsleeve_3d_Back.png?v=1745304425",
+    "neckline": "other",
+    "sleeve": "other",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive",
+      "ethnic"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls004",
+    "public_id": "CBLS004",
+    "title": "Intricate Illusion Neck Customized Blouse - CBLS004",
+    "price_inr": 1050.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/Illusion_crewneck_shortsleeve_Front.png?v=1745304424",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/Illusion_crewneck_shortsleeve_Back.png?v=1745304424",
+    "neckline": "strapless",
+    "sleeve": "other",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls013",
+    "public_id": "CBLS013",
+    "title": "Blissful Boat Neck Customized Blouse - CBLS013",
+    "price_inr": 850.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/elbowsleeve_trainglekeyhole_boatneck_3d_Front.png?v=1745304423",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/elbowsleeve_trainglekeyhole_boatneck_3d_Back.png?v=1745304423",
+    "neckline": "boat_neck",
+    "sleeve": "elbow_sleeve",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_peacock",
+    "public_id": "CUSTOMIZED-BLOUSE-STITCHING-SERVICE_PEACOCK",
+    "title": "Elegant Elbow Sleeve Customized Blouse - CBLS031",
+    "price_inr": 750.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/boatneck_elbowsleeve_buttoned_customisedsleeve_3d_Front.png?v=1745304422",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/boatneck_elbowsleeve_buttoned_customisedsleeve_3d_Back.png?v=1745304422",
+    "neckline": "boat_neck",
+    "sleeve": "elbow_sleeve",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls008",
+    "public_id": "CBLS008",
+    "title": "Sleeveless Keyhole Magic Customized Blouse - CBLS008",
+    "price_inr": 850.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/shapedhole_uneck_sleeveless_princesscut_Front.png?v=1745304421",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/shapedhole_uneck_sleeveless_princesscut_Back.png?v=1745304421",
+    "neckline": "u_neck",
+    "sleeve": "sleeveless",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls024",
+    "public_id": "CBLS024",
+    "title": "Sleek Shaped Neck Customized Blouse - CBLS024",
+    "price_inr": 750.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/hemshaped_elbowsleeve_elbow_customisedblouse_3d_Front.png?v=1745304419",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/hemshaped_elbowsleeve_elbow_customisedblouse_3d_Back.png?v=1745304419",
+    "neckline": "crew_neck",
+    "sleeve": "elbow_sleeve",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "festive",
+      "ethnic"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls002",
+    "public_id": "CBLS002",
+    "title": "Chic Closed U Neck Customized Blouse - CBLS002",
+    "price_inr": 1050.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/illusionneck_back_elbowsleeve_vneck_Front.png?v=1745304418",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/illusionneck_back_elbowsleeve_vneck_Back.png?v=1745304418",
+    "neckline": "u_neck",
+    "sleeve": "other",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls021",
+    "public_id": "CBLS021",
+    "title": "Chic Keyhole Affair Customized Blouse - CBLS021 (Sitching Service)",
+    "price_inr": 850.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/shapedkeyhole_shortsleeve_uneck_customisedblouse_3d_Front.png?v=1745304417",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/shapedkeyhole_shortsleeve_uneck_customisedblouse_3d_Back.png?v=1745304417",
+    "neckline": "crew_neck",
+    "sleeve": "short_sleeve",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive",
+      "ethnic"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls025",
+    "public_id": "CBLS025",
+    "title": "Dynamic Deep V Neck Customized Blouse - CBLS025",
+    "price_inr": 850.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/deep_uneck_vneck_elbowsleeve_bow_customisedblouse_Front.png?v=1745304416",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/deep_uneck_vneck_elbowsleeve_bow_customisedblouse_Back.png?v=1745304416",
+    "neckline": "v_neck",
+    "sleeve": "elbow_sleeve",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive",
+      "ethnic"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls026",
+    "public_id": "CBLS026",
+    "title": "Jazzy Jewel Neck Customized Blouse - CBLS026",
+    "price_inr": 1050.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/coldshoulder_cutwork_netted_3d_Front.png?v=1745304415",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/coldshoulder_cutwork_netted_3d_Back.png?v=1745304415",
+    "neckline": "square_neck",
+    "sleeve": "elbow_sleeve",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls027",
+    "public_id": "CBLS027",
+    "title": "Casual Collared Neck Customized Blouse - CBLS027",
+    "price_inr": 1050.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/Collared_sleeveless_dart_customisedblouse_3d_Front.png?v=1745304414",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/Collared_sleeveless_dart_customisedblouse_3d_Back.png?v=1745304414",
+    "neckline": "collar",
+    "sleeve": "sleeveless",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls028",
+    "public_id": "CBLS028",
+    "title": "Striking Shoulder Strap Customized Blouse - CBLS028",
+    "price_inr": 850.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/strap_oneshoulder_dartblouse_3d_front.png?v=1745304413",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/strap_oneshoulder_dartblouse_3d_Back.png?v=1745304413",
+    "neckline": "other",
+    "sleeve": "sleeveless",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls029",
+    "public_id": "CBLS029",
+    "title": "Breezy Bishop Sleeve Customized Blouse - CBLS029",
+    "price_inr": 1050.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/pleated_cuff_keyhole_shapedstrap_boatneck_3d_Front.png?v=1745304412",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/pleated_cuff_keyhole_shapedstrap_boatneck_3d_Back.png?v=1745304412",
+    "neckline": "boat_neck",
+    "sleeve": "bishop_sleeve",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls030",
+    "public_id": "CBLS030",
+    "title": "Classy Cut Work Sleeve Customized Blouse - CBLS030",
+    "price_inr": 850.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/beats_vneck_elbowsleeve_deepv_shaped_cutwork_Front.png?v=1745304410",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/beats_vneck_elbowsleeve_deepv_shaped_cutwork_Back.png?v=1745304410",
+    "neckline": "v_neck",
+    "sleeve": "other",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive",
+      "ethnic"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls032",
+    "public_id": "CBLS032",
+    "title": "Bold Bell Sleeve Customized Blouse - CBLS032",
+    "price_inr": 1050.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/elastic_pleated_sweatheart_custimsedblouse_Front.png?v=1745304409",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/elastic_pleated_sweatheart_custimsedblouse_Back.png?v=1745304409",
+    "neckline": "other",
+    "sleeve": "bell_sleeve",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls032-1",
+    "public_id": "CBLS032",
+    "title": "Boat Neck Chic with Bow Customized Blouse - CBLS032",
+    "price_inr": 750.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/princesscut_elbowsleeve_bow_slant_3d_Front.png?v=1745304408",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/princesscut_elbowsleeve_bow_slant_3d_Back.png?v=1745304408",
+    "neckline": "boat_neck",
+    "sleeve": "elbow_sleeve",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls034",
+    "public_id": "CBLS034",
+    "title": "Pretty Pleated Sleeve Customized Blouse - CBLS034",
+    "price_inr": 1050.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/Puffpleatedsleeve_vneck_keyhole_tassel_3d_Front.png?v=1745304407",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/Puffpleatedsleeve_vneck_keyhole_tassel_3d_Back.png?v=1745304407",
+    "neckline": "other",
+    "sleeve": "pleated_sleeve",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive",
+      "ethnic"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls035",
+    "public_id": "CBLS035",
+    "title": "Stunning Strap Neck Customized Blouse - CBLS035",
+    "price_inr": 850.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/bottom_curved_strap_uneck_3d_Front.png?v=1745304406",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/bottom_curved_strap_uneck_3d_Back.png?v=1745304406",
+    "neckline": "other",
+    "sleeve": "sleeveless",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls036",
+    "public_id": "CBLS036",
+    "title": "Cozy Crossed Strap Neckline Customized Blouse - CBLS036",
+    "price_inr": 850.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/zigzag_strap_bottomcurved_princesscut_customisedblouse_Front.png?v=1745304404",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/zigzag_strap_bottomcurved_princesscut_customisedblouse_Back.png?v=1745304404",
+    "neckline": "other",
+    "sleeve": "sleeveless",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls037",
+    "public_id": "CBLS037",
+    "title": "Cute Cap Sleeve Customized Blouse - CBLS037",
+    "price_inr": 1050.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/scallopedneck_capsleeve_scallopedbottom_Front.png?v=1745304403",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/scallopedneck_capsleeve_scallopedbottom_Back.png?v=1745304403",
+    "neckline": "shaped_neck",
+    "sleeve": "cap_sleeve",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "silk"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls038",
+    "public_id": "CBLS038",
+    "title": "Effortless Strap and Pleats Magic Customized Blouse - CBLS038",
+    "price_inr": 1050.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/pleatedcuff_sleeve_uneck_princesscut_strap_3d_Front.png?v=1745304401",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/pleatedcuff_sleeve_uneck_princesscut_strap_3d_Back.png?v=1745304401",
+    "neckline": "u_neck",
+    "sleeve": "pleated_sleeve",
+    "fabric": [
+      "cotton",
+      "silk",
+      "jacquard",
+      "brocade"
+    ],
+    "occasion_tags": [
+      "festive",
+      "ethnic"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls039",
+    "public_id": "CBLS039",
+    "title": "Majestic Mandarin Collar Customized Blouse - CBLS039",
+    "price_inr": 850.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/mandarin_button_elbowsleeve_princesscut_Front.png?v=1745304400",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/mandarin_button_elbowsleeve_princesscut_Back.png?v=1745304400",
+    "neckline": "collar",
+    "sleeve": "elbow_sleeve",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls041",
+    "public_id": "CBLS041",
+    "title": "Kooky Keyhole Neck Customized Blouse - CBLS041",
+    "price_inr": 1050.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/turtle_cutwork_keyhole_sleeveless_Front.png?v=1745304399",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/turtle_cutwork_keyhole_sleeveless_Back.png?v=1745304399",
+    "neckline": "turtle_neck",
+    "sleeve": "sleeveless",
+    "fabric": [
+      "cotton",
+      "linen",
+      "silk",
+      "jacquard",
+      "brocade"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls042",
+    "public_id": "CBLS042",
+    "title": "Captivating C-Neckline Customized Blouse - CBLS042",
+    "price_inr": 1050.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/asymmetric_cneck_backbow_cutwork_Front.png?v=1745304398",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/asymmetric_cneck_backbow_cutwork_Back.png?v=1745304398",
+    "neckline": "other",
+    "sleeve": "sleeveless",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls043",
+    "public_id": "CBLS043",
+    "title": "Stylish Square Neckline Customized Blouse - CBLS043",
+    "price_inr": 1050.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/netted_pleated_illusion_strap_customisedblouse_Front.png?v=1745304396",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/netted_pleated_illusion_strap_customisedblouse_Back.png?v=1745304396",
+    "neckline": "square_neck",
+    "sleeve": "elbow_sleeve",
+    "fabric": [
+      "cotton",
+      "silk",
+      "brocade"
+    ],
+    "occasion_tags": [
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls044",
+    "public_id": "CBLS044",
+    "title": "Peplum Chic Customized Blouse - CBLS044",
+    "price_inr": 850.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/peplumblouse_rufflesleeve_vneck_customised_3d_Front.png?v=1745304395",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/peplumblouse_rufflesleeve_vneck_customised_3d_Back.png?v=1745304395",
+    "neckline": "other",
+    "sleeve": "other",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls045",
+    "public_id": "CBLS045",
+    "title": "Posh Pleated Customized Blouse - CBLS045",
+    "price_inr": 1050.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/Sweetheart_netted_gathers_turtle_customiseddblouse_3d_Front.png?v=1745304393",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/Sweetheart_netted_gathers_turtle_customiseddblouse_3d_Back.png?v=1745304393",
+    "neckline": "turtle_neck",
+    "sleeve": "sleeveless",
+    "fabric": [
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls046",
+    "public_id": "CBLS046",
+    "title": "Ravishing Round Cutwork Customized Blouse - CBLS046",
+    "price_inr": 1050.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/centergathering_roundkeyhole_uneck_shapedbottom_3d_Front.png?v=1745304392",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/centergathering_roundkeyhole_uneck_shapedbottom_3d_Back.png?v=1745304392",
+    "neckline": "u_neck",
+    "sleeve": "elbow_sleeve",
+    "fabric": [
+      "cotton",
+      "silk",
+      "jacquard",
+      "brocade"
+    ],
+    "occasion_tags": [
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls047",
+    "public_id": "CBLS047",
+    "title": "Asymmetric Glam Customized Blouse - CBLS047",
+    "price_inr": 750.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/back_Asymmetric_buttone_lightshirring_bucketneck_Front.png?v=1745304391",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/back_Asymmetric_buttone_lightshirring_bucketneck_Back.png?v=1745304391",
+    "neckline": "v_neck",
+    "sleeve": "sleeveless",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "silk"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls040",
+    "public_id": "CBLS040",
+    "title": "Retro Ruffled Neck Customized Blouse - CBLS040",
+    "price_inr": 850.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/vneck_ruffle_customisedblouse_Front.png?v=1745304390",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/vneck_ruffle_customisedblouse_Back.png?v=1745304390",
+    "neckline": "other",
+    "sleeve": "sleeveless",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls048",
+    "public_id": "CBLS048",
+    "title": "Dreamy Double Strap Customized Blouse - CBLS048",
+    "price_inr": 850.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/doublestrap_uneck_strapless_customisedblouse_3d_Front.png?v=1745304389",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/doublestrap_uneck_strapless_customisedblouse_3d_Back.png?v=1745304389",
+    "neckline": "other",
+    "sleeve": "sleeveless",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "silk",
+      "jacquard"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls049",
+    "public_id": "CBLS049",
+    "title": "Serene Strapless Customized Blouse - CBLS049",
+    "price_inr": 850.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/strap_princesscut_customisedblouse_3d_Front.png?v=1745304387",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/strap_princesscut_customisedblouse_3d_Back.png?v=1745304387",
+    "neckline": "strapless",
+    "sleeve": "sleeveless",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "velvet"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls050",
+    "public_id": "CBLS050",
+    "title": "Stylish Shirring Customized Blouse - CBLS050",
+    "price_inr": 850.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/shirringblouse_sleeveless_customisedblouse_Front.png?v=1745304386",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/shirringblouse_sleeveless_customisedblouse_Back.png?v=1745304386",
+    "neckline": "other",
+    "sleeve": "sleeveless",
+    "fabric": [
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customised_blouse_cbls040",
+    "public_id": "CBLS040",
+    "title": "Women Sleek Darted Customized Blouse - CBLS051 ( Stitching Service)",
+    "price_inr": 750.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/3dart_plainblouse_shortsleeves_3d_Front.png?v=1745304385",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/3dart_plainblouse_shortsleeves_3d_Back.png?v=1745304385",
+    "neckline": "square_neck",
+    "sleeve": "short_sleeve",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls052",
+    "public_id": "CBLS052",
+    "title": "Stylish Grace with Pom Pom Customized Blouse - CBLS052",
+    "price_inr": 850.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/pompom_toppuff_customisedblouse_3d_Front.png?v=1745304383",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/pompom_toppuff_customisedblouse_3d_Back.png?v=1745304383",
+    "neckline": "u_neck",
+    "sleeve": "elbow_sleeve",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls053",
+    "public_id": "CBLS053",
+    "title": "Tailored Full Sleeve Chic Customized Blouse - CBLS053",
+    "price_inr": 750.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/fullsleeve_3dart_vneck_customised_3d_Back.png?v=1745304381",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/fullsleeve_3dart_vneck_customised_Front.png?v=1745304382",
+    "neckline": "other",
+    "sleeve": "full_sleeve",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "customized-blouse-stitching-service_cbls054",
+    "public_id": "CBLS054",
+    "title": "Minimalist Pleated Elegance Customized Blouse - CBLS054",
+    "price_inr": 850.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/pleated_uneck_customisedblouse_3d_Front.png?v=1745304380",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/pleated_uneck_customisedblouse_3d_Back.png?v=1745304380",
+    "neckline": "other",
+    "sleeve": "elbow_sleeve",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "elegant-edge-deep-v-neck-sleeveless-blouse-cbls055",
+    "public_id": "CBLS055",
+    "title": "Elegant Edge Deep V-Neck Sleeveless Blouse - CBLS055",
+    "price_inr": 850.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/vneck_Bow_3d_Front_women_blouse.png?v=1745304378",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/vneck_Bow_3d_Back_women_blouse.png?v=1745304378",
+    "neckline": "v_neck",
+    "sleeve": "sleeveless",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "knots-cutouts-deep-v-strap-blouse-cbls056",
+    "public_id": "CBLS056",
+    "title": "Knots & Cutouts Deep V Strap Blouse - CBLS056",
+    "price_inr": 850.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/Cutwork_back_deepv_ties_knots_3d_Front.png?v=1745304377",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/Cutwork_back_deepv_ties_knots_3d_Back.png?v=1745304377",
+    "neckline": "v_neck",
+    "sleeve": "sleeveless",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "shapely-sensation-crew-neck-with-cutout-back-cbls057",
+    "public_id": "CBLS057",
+    "title": "Shapely Sensation Crew Neck with Cutout Back - CBLS057",
+    "price_inr": 1050.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/crew_neck_shapedbottom_keyhole_cutwork_bow_3d_Front.png?v=1745304375",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/crew_neck_shapedbottom_keyhole_cutwork_bow_3d_Back.png?v=1745304375",
+    "neckline": "crew_neck",
+    "sleeve": "short_sleeve",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "sultry-silhouette-turtleneck-backless-blouse-cbls058",
+    "public_id": "CBLS058",
+    "title": "Sultry Silhouette Turtleneck Backless Blouse - CBLS058",
+    "price_inr": 1050.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/Turtleneck_Backless_Strap_Blouse_3d_Front.png?v=1745304373",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/Turtleneck_Backless_Strap_Blouse_3d_Back.png?v=1745304373",
+    "neckline": "turtle_neck",
+    "sleeve": "short_sleeve",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk",
+      "poplin"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "patch-work-customized-blouse-cbls059-stitchig-service",
+    "public_id": "CBLS059",
+    "title": "Patch Work Customized Blouse - CBLS059",
+    "price_inr": 1050.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/PatchWorkBlouseCBLS059Back.jpg?v=1745304370",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/PatchWorkBlouseCBLS059Front.jpg?v=1745304370",
+    "neckline": "other",
+    "sleeve": "sleeveless",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "silk"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "patch-work-customized-blouse-cbls059-stitchig-service-copy",
+    "public_id": "CBLS059",
+    "title": "Scalloped Peplum Blouse-CBLS060",
+    "price_inr": 1050.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/ScallopedpeplumBlouseCBLS060Back.png?v=1745304368",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/ScallopedpeplumBlouseCBLS060Front.png?v=1745304368",
+    "neckline": "v_neck",
+    "sleeve": "sleeveless",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "silk"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "scalloped-peplum-blouse-cbls060-stitching-service-copy",
+    "public_id": "CBLS060",
+    "title": "Elegant Ruffles With Keyhole Blouse-CBLS061",
+    "price_inr": 1050.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/ElegantRufflesWithCutoutsBlouseCBL061Front.png?v=1745304367",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/ElegantRufflesWithCutoutsBlouseCBL061Back.png?v=1745304367",
+    "neckline": "v_neck",
+    "sleeve": "sleeveless",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "silk"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "scalloped-peplum-blouse-cbls060-stitching-service-copy-1",
+    "public_id": "CBLS060",
+    "title": "Vibrant Cross-Back Ethnic Blouse -CBLS062",
+    "price_inr": 1050.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/VibrantCross-BackEthnicBlouseCBL062Front.png?v=1745304365",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/VibrantCross-BackEthnicBlouseCBL062Back.png?v=1745304365",
+    "neckline": "other",
+    "sleeve": "sleeveless",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "silk",
+      "jacquard"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "vibrant-cross-back-ethnic-blouse-cbls062-stitching-service-copy",
+    "public_id": "CBLS062",
+    "title": "Sheer Balloon Sleeve Back-Tie Blouse -CBLS063",
+    "price_inr": 1050.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/SheerBalloonSleeveBack-TieBlouseCBL063Front.png?v=1745304363",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/SheerBalloonSleeveBack-TieBlouseCBL063Back.png?v=1745304363",
+    "neckline": "v_neck",
+    "sleeve": "sleeveless",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk",
+      "jacquard"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "sheer-balloon-sleeve-back-tie-blouse-cbls063-stitching-service-copy",
+    "public_id": "CBLS063",
+    "title": "Structured Puff Sleeve V-Back Blouse-CBLS064",
+    "price_inr": 1050.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/StructuredPuffSleeveV-BackBlouseCBL064Back.png?v=1745304361",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/StructuredPuffSleeveV-BackBlouseCBL064Front.png?v=1745304361",
+    "neckline": "v_neck",
+    "sleeve": "sleeveless",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk",
+      "jacquard"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "structured-puff-sleeve-v-back-blouse-cbls064-stitching-service-copy",
+    "public_id": "CBLS064",
+    "title": "Petal Cascade Designer Blouse-CBL065",
+    "price_inr": 1050.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/PetalCascadeDesignerBlouseCBL065Front.png?v=1745304359",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/PetalCascadeDesignerBlouseCBL065Back.png?v=1745304359",
+    "neckline": "other",
+    "sleeve": "sleeveless",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk",
+      "jacquard"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "petal-cascade-designer-blouse-cbl065-stitching-service-copy",
+    "public_id": "PETAL-CASCADE-DESIGNER-BLOUSE-CBL065-STITCHING-SERVICE",
+    "title": "Butterfly Overlapped High-Neck Blouse-CBL066",
+    "price_inr": 1050.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/ButterflyOverlappedCollarBlouseCBL066Front.png?v=1745304358",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/ButterflyOverlappedCollarBlouseCBL066Back.png?v=1745304358",
+    "neckline": "other",
+    "sleeve": "sleeveless",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "georgette",
+      "chiffon",
+      "silk",
+      "jacquard"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "butterfly-overlapped-high-neck-blouse-cbl066stitching-service-copy",
+    "public_id": "BUTTERFLY-OVERLAPPED-HIGH-NECK-BLOUSE-CBL066STITCHING-SERVICE",
+    "title": "Geometric Open Back Blouse-CBL067",
+    "price_inr": 1050.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/GeometricOpenBackBlouseCBL067Front.png?v=1745304356",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/GeometricOpenBackBlouseCBL067Back.png?v=1745304356",
+    "neckline": "other",
+    "sleeve": "sleeveless",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "silk",
+      "jacquard"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "geometric-open-back-blouse-cbl067-stitching-service-copy",
+    "public_id": "GEOMETRIC-OPEN-BACK-BLOUSE-CBL067-STITCHING-SERVICE",
+    "title": "Floral Keyhole Mandarin Blouse-CBL068",
+    "price_inr": 1050.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/FloralKeyholeMandarinBlouseFrontCBL068.png?v=1745304354",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/FloralKeyholeMandarinBlouseBackCBL068.png?v=1745304354",
+    "neckline": "collar",
+    "sleeve": "sleeveless",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "silk",
+      "jacquard"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "floral-keyhole-mandarin-blouse-cbl068stitching-service-copy",
+    "public_id": "FLORAL-KEYHOLE-MANDARIN-BLOUSE-CBL068STITCHING-SERVICE",
+    "title": "Sculpted Sleeves With High Neck Blouse-CBL069",
+    "price_inr": 1050.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/SculptedSleevesWithHighNeckBlouseFrontCBL069.png?v=1745304352",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/SculptedSleevesWithHighNeckBlouseBackCBL069.png?v=1745304352",
+    "neckline": "collar",
+    "sleeve": "sleeveless",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "silk",
+      "jacquard"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "sculpted-sleeves-with-high-neck-blouse-cbl069stitching-service-copy",
+    "public_id": "SCULPTED-SLEEVES-WITH-HIGH-NECK-BLOUSE-CBL069STITCHING-SERVICE",
+    "title": "Modern Pinstripe Open Back Blouse-CBL070",
+    "price_inr": 1050.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/ModernPinstripeOpenBackBlouseFrontCBL070_4aa391c6-fdfc-42f4-8379-288c3e4eb80f.png?v=1745304350",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/ModernPinstripeOpenBackBlouseBackCBL070.png?v=1745304350",
+    "neckline": "collar",
+    "sleeve": "sleeveless",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "silk",
+      "jacquard"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "modern-pinstripe-open-back-blouse-cbl070stitching-service-copy",
+    "public_id": "MODERN-PINSTRIPE-OPEN-BACK-BLOUSE-CBL070STITCHING-SERVICE",
+    "title": "Dramatic Puff Sleeve with Scalloped Back Blouse-CBL071",
+    "price_inr": 1050.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/DramaticPuffSleevewithScallopedBackBlouseCBL071Front.png?v=1745304348",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/DramaticPuffSleevewithScallopedBackBlouseCBL071Back.png?v=1745304348",
+    "neckline": "jewel_neck",
+    "sleeve": "sleeveless",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "silk",
+      "jacquard"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "dramatic-puff-sleeve-with-scalloped-back-blouse-cbl071stitching-service-copy",
+    "public_id": "DRAMATIC-PUFF-SLEEVE-WITH-SCALLOPED-BACK-BLOUSE-CBL071STITCHING-SERVICE",
+    "title": "Elasticated Waist with Keyhole Back Blouse-CBL072",
+    "price_inr": 1050.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/ElasticatedWaistwithKeyholeBackBlouseCBL072Front.png?v=1745304345",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/ElasticatedWaistwithKeyholeBackBlouseCBL072Back.png?v=1745304345",
+    "neckline": "other",
+    "sleeve": "sleeveless",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "silk",
+      "jacquard"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  },
+  {
+    "design_id": "dramatic-puff-sleeve-with-scalloped-back-blouse-cbl071stitching-service-copy-1",
+    "public_id": "DRAMATIC-PUFF-SLEEVE-WITH-SCALLOPED-BACK-BLOUSE-CBL071STITCHING-SERVICE-COPY",
+    "title": "Structured Puff Sleeve with Keyhole Back Blouse-CBL073",
+    "price_inr": 1050.0,
+    "front_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/StructuredPuffSleevewithKeyholeBackBlouseCBL073Front.png?v=1745304342",
+    "back_image_url": "https://cdn.shopify.com/s/files/1/1004/5250/files/StructuredPuffSleevewithKeyholeBackBlouseCBL073Back.png?v=1745304343",
+    "neckline": "other",
+    "sleeve": "sleeveless",
+    "fabric": [
+      "cotton",
+      "muslin",
+      "linen",
+      "silk",
+      "jacquard"
+    ],
+    "occasion_tags": [
+      "trendy",
+      "festive"
+    ],
+    "sizes_available": [
+      "L",
+      "M",
+      "S",
+      "XL",
+      "XS",
+      "XXL"
+    ],
+    "prompt_seed": "default_prompt"
+  }
+]
